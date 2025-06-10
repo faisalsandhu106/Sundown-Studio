@@ -697,11 +697,7 @@ footer .animation-2{
 
 }
 
-
-
-
-
-@media only screen and (max-width:360px) {
+@media only screen and (max-width:500px) {
 
     #loader{
         display: flex;
